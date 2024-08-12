@@ -1,0 +1,19 @@
+{
+  "name": "unified-server",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "An attempt to create a module that unifies request calls across express, koa, and fastify. Important if you want to create a middleware that runs on any of those platforms.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unified",
+    "connect",
+    "server",
+    "express",
+    "koa",
+    "fastify"
+  ],
+  "author": "Anthony Mugendi <nurumugz@gmail.com>"
+}
