@@ -15,5 +15,6 @@
     "koa",
     "fastify"
   ],
-  "author": "Anthony Mugendi <nurumugz@gmail.com>"
+  "author": "Anthony Mugendi <nurumugz@gmail.com>",
+  "repository": "https://github.com/mugendi/unified-server.git"
 }
